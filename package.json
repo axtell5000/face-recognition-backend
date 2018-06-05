@@ -4,7 +4,7 @@
   "description": "Api for face recognition",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "Stephen Axtell",
   "license": "MIT",
